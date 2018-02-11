@@ -8,10 +8,10 @@ enter search term in the input, click search or hit enter to search for next top
 
 ``` bash
 # install dependencies
-npm install
+`npm install` or `yarn`
 
 # serve with hot reload at localhost:8080
-npm run dev
+`npm run dev` or `yarn dev`
 
 # lint the Typescript
 npm run lint
